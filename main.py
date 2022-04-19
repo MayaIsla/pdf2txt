@@ -16,3 +16,5 @@ with open('scan_text_output.txt', 'w') as outfile:
 
 
 #prereqs are to install poppler via github, and import pytesseract packages directly
+#must have txt file, sample pdf (named scanned.pdf in this example), and lots of sheer luck.
+#Scares me how it parces txt files so well.... 
